@@ -1,17 +1,17 @@
 # NZ Store Receipt System (C++)
 
 ## 🧩 Background / Problem Statement
-In many small businesses, manual billing can lead to errors, time consumption, and inconsistent records. Owners need a simple, lightweight system that helps:
+In many small businesses, manual billing can lead to errors, time consumption, and inconsistent records. Owners need a simple, lightweight system that helps:<br>
 - Record customer purchases accurately
 - Calculate tax and discounts automatically
 - Summarize daily income without spreadsheets
 
 ## 💡 Proposed Solution
-The NZ Store System addresses these issues by providing:
+The NZ Store System addresses these issues by providing:<br>
 - A structured and automated billing process
 - Real-time receipt generation
 - Built-in tax and discount calculations
-- Daily summary reports to track performance
+- Daily summary reports to track performance<br>
 All of this is achieved using core C++ logic with no external database or GUI required.
 
 ## 💻 Overview
@@ -26,12 +26,12 @@ This project demonstrates structured programming concepts, data handling using a
 - To simulate a real-world retail billing system with receipt generation and daily income tracking.
 
 ## 🔍 Scope
-This project focuses on small-scale retail operations such as:
+This project focuses on small-scale retail operations such as:<br>
 - Product display and selection by product ID
 - Customer order processing
 - Calculation of subtotal, tax, and discount
 - Automatic receipt printing
-- Daily report summarizing total customers and income
+- Daily report summarizing total customers and income<br>
 The system can easily be extended to include features such as inventory tracking, file storage, or GUI integration in the future.
 
 ## 💡 Expected Benefits
@@ -42,24 +42,24 @@ The system can easily be extended to include features such as inventory tracking
 
 ## ⚙️ What the Code Does
 - Displays a product catalog (Bed, Pillow, Blanket, Table, Lamp) with prices.
-- Allows the cashier to:
-Enter customer details
-Select product(s) and quantity
+- Allows the cashier to:<br>
+Enter customer details<br>
+Select product(s) and quantity<br>
 Automatically calculate subtotal, tax (5%), and discount (10% if applicable)
-- Generates a formatted receipt including:
-Store details
-Purchased items and totals
-Tax, discount, and final amount
-Tracks the total number of customers and income for the day.
+- Generates a formatted receipt including:<br>
+Store details<br>
+Purchased items and totals<br>
+Tax, discount, and final amount<br>
+Tracks the total number of customers and income for the day.<br>
 Displays a daily closing report when the user exits.
 
 ## 🧾 Project Summary
-The NZ Store Receipt System replicates a simple real-world store operation where each customer’s transaction is processed individually. 
+The NZ Store Receipt System replicates a simple real-world store operation where each customer’s transaction is processed individually. <br>
 It ensures accurate calculations, clear receipts, and end-of-day reports. All in one efficient C++ program.
 
 ## ✅ Conclusion
-The NZ Store Receipt System is a practical and functional example of how C++ can be used to simulate real-world business operations.
-It enhances understanding of programming fundamentals while providing a foundation for more advanced POS systems in the future.
+The NZ Store Receipt System is a practical and functional example of how C++ can be used to simulate real-world business operations.<br>
+It enhances understanding of programming fundamentals while providing a foundation for more advanced POS systems in the future.<br>
 This project proves that even simple console applications can deliver efficient, organized, and user-friendly solutions.
 
 ## 🧠 Tech Stack
