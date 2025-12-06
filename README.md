@@ -11,7 +11,7 @@ The NZ Store System addresses these issues by providing:<br>
 - A structured and automated billing process
 - Real-time receipt generation
 - Built-in tax and discount calculations
-- Daily summary reports to track performance
+- Daily summary reports to track performance<br>
 All of this is achieved using core C++ logic with no external database or GUI required.
 
 ## 💻 Overview
