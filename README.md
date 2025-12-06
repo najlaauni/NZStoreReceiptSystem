@@ -15,9 +15,9 @@ The NZ Store System addresses these issues by providing:
 All of this is achieved using core C++ logic with no external database or GUI required.
 
 ## 💻 Overview
-NZ Store is my project for Basic Programming at Kolej Mara Kuala Nerang (KMKN). 
-It is a C++-based Point of Sale (POS) system designed to simulate a simple store billing and receipt process.
-It allows the user to manage customer purchases, calculate totals with tax and discounts, and print formatted receipts.
+NZ Store is my project for Basic Programming at Kolej Mara Kuala Nerang (KMKN).<br>
+It is a C++-based Point of Sale (POS) system designed to simulate a simple store billing and receipt process.<br>
+It allows the user to manage customer purchases, calculate totals with tax and discounts, and print formatted receipts.<br>
 This project demonstrates structured programming concepts, data handling using arrays and structs, and user interaction through a menu-driven interface.
 
 ## 🎯 Objective
@@ -35,10 +35,10 @@ This project focuses on small-scale retail operations such as:
 The system can easily be extended to include features such as inventory tracking, file storage, or GUI integration in the future.
 
 ## 💡 Expected Benefits
-Practical Understanding: Strengthens logical thinking and C++ coding skills.
-Efficiency: Simplifies sales and billing for small store scenarios.
-Expandability: Can serve as a foundation for a larger POS or inventory system.
-Automation: Reduces manual calculation errors with automatic receipt generation and total tracking.
+- Practical Understanding: Strengthens logical thinking and C++ coding skills.
+- Efficiency: Simplifies sales and billing for small store scenarios.
+- Expandability: Can serve as a foundation for a larger POS or inventory system.
+- Automation: Reduces manual calculation errors with automatic receipt generation and total tracking.
 
 ## ⚙️ What the Code Does
 - Displays a product catalog (Bed, Pillow, Blanket, Table, Lamp) with prices.
@@ -63,6 +63,6 @@ It enhances understanding of programming fundamentals while providing a foundati
 This project proves that even simple console applications can deliver efficient, organized, and user-friendly solutions.
 
 ## 🧠 Tech Stack
-Language: C++
-Compiler: g++ / any C++11+ compatible IDE
-Concepts Used: Structs, Arrays, Functions, Loops, Conditionals, I/O Formatting (iomanip), ctime
+- Language: C++
+- Compiler: g++ / any C++11+ compatible IDE
+- Concepts Used: Structs, Arrays, Functions, Loops, Conditionals, I/O Formatting (iomanip), ctime
